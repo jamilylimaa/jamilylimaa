@@ -19,7 +19,7 @@ Sou uma entusiasta da área de dados, sempre buscando aprender e desenvolver sol
 🔹 **[Dashboards no Google Colab](#)** - Visualização e análise de dados com Pandas e Matplotlib  
 
 ## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/jamily-lima-59b719261)  
+**LinkedIn:** (https://www.linkedin.com/in/jamily-lima-59b719261)  
 ✉️ **E-mail:** [jamilylima0707@gmail.com)  
 
 ---
