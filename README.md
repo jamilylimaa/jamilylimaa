@@ -11,7 +11,6 @@ Sou uma entusiasta da área de dados, sempre buscando aprender e desenvolver sol
 - **Banco de Dados:** SQL Server, MySQL, DBeaver  
 - **Linguagens:** Python (Pandas, Matplotlib), SQL  
 - **Automação e Análise de Dados:** Excel, Google Colab  
-- **Cloud Computing:** Estudando AWS
 
 ## 📫 Contato
 **LinkedIn:** (https://www.linkedin.com/in/jamily-lima-59b719261)  
