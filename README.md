@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Jamily
+# 👋 Olá! Me chamo Jamily
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
 📊 Apaixonada por Engenharia de Dados, Automação e Cloud Computing  
@@ -11,17 +11,8 @@ Sou uma entusiasta da área de dados, sempre buscando aprender e desenvolver sol
 - **Banco de Dados:** SQL Server, MySQL, DBeaver  
 - **Linguagens:** Python (Pandas, Matplotlib), SQL  
 - **Automação e Análise de Dados:** Excel, Google Colab  
-- **Desenvolvimento Web:** PHP, Bootstrap (CRUD) (em desenvolvimento)
-- **Cloud Computing:** Aprendendo AWS
-
-## 📌 Projetos Destacados
-🔹 **[Banco de Dados para Academia](#)** - Modelagem e automação de exportação para Excel  
-🔹 **[Dashboards no Google Colab](#)** - Visualização e análise de dados com Pandas e Matplotlib  
+- **Cloud Computing:** Estudando AWS
 
 ## 📫 Contato
 **LinkedIn:** (https://www.linkedin.com/in/jamily-lima-59b719261)  
 ✉️ **E-mail:** [jamilylima0707@gmail.com)  
-
----
-
-✨ Sempre em busca de aprendizado e novos desafios! ✨
