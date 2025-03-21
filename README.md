@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
 📊 Apaixonada por Engenharia de Dados, Automação e Cloud Computing  
-🚀 Explorando SQL, Python, Microsoft Azure e AWS 
+🚀 Explorando SQL, Python e AWS 
 
 ## 🌟 Sobre Mim
 Sou uma entusiasta da área de dados, sempre buscando aprender e desenvolver soluções eficientes. Tenho experiência com SQL, Python e ferramentas de visualização de dados. Meu objetivo é evoluir na engenharia de dados, construindo pipelines e modelos que otimizem a tomada de decisão.
@@ -12,7 +12,7 @@ Sou uma entusiasta da área de dados, sempre buscando aprender e desenvolver sol
 - **Linguagens:** Python (Pandas, Matplotlib), SQL  
 - **Automação e Análise de Dados:** Excel, Google Colab  
 - **Desenvolvimento Web:** PHP, Bootstrap (CRUD)  
-- **Cloud Computing:** Aprendendo Microsoft Azure e AWS
+- **Cloud Computing:** Aprendendo AWS
 
 ## 📌 Projetos Destacados
 🔹 **[Banco de Dados para Academia](#)** - Modelagem e automação de exportação para Excel  
