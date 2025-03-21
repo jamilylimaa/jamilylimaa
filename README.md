@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Jamily
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
-📊 Apaixonada por Engenharia de Dados, Automação e Cloud Computing  
+📊 Apaixonada por Engenharia de Dados 
 🚀 Explorando SQL, Python e AWS 
 
 ## 🌟 Sobre Mim
